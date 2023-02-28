@@ -11,5 +11,5 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
 </div>
-      ![snake gif](https://github.com/VNav4rr0/VNav4rr0/blob/output/github-contribution-grid-snake.gif)       
+      
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=footer">
