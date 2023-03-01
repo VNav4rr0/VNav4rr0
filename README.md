@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=30&left=true&vLeft=true&width=1000&lines=Olá,+Eu+sou+o+Victor+Hugo;Tenho+16+anos;Eu+moro+no+Brasil;Eu+estudo+DS+na+ETEC-ZL+;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div>
-  <h1>💻 Linguagens 💻</h1>
+  <h1>Linguagens<img width="50px" src"img/"></h1>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
