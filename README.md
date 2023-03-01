@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header">
 
 <div align="center">
  <img width="500px" src="img/computador.gif">
@@ -17,4 +17,4 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
 </div>
       
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer">
