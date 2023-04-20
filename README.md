@@ -11,5 +11,8 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
 </div>
-      
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VNav4rr0}/count.svg" /></p> 
+<br></div>     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer">
