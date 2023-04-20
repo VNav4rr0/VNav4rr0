@@ -12,3 +12,4 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
 </div>   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer">
+![Snake animation](https://github.com/VNav4rr0/VNav4rr0/blob/output/github-contribution-grid-snake.svg)
