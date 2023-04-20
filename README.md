@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&left=true&vLeft=true&width=1000&lines=Olá,+Eu+sou+o+Victor+Hugo;Tenho+16+anos;Eu+moro+no+Brasil;Eu+estudo+DS+na+ETEC-ZL+;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
@@ -12,4 +12,4 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
 </div>
       
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer">
