@@ -4,6 +4,7 @@
   <h1>
      <img  src="img/victor.svg">
   </h1>
-  <img  src="img/Part1.svg">
+  <br>
+  <img  src="img/Group 4Eu.svg">
 </div>   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0779E4&height=120&section=footer">
