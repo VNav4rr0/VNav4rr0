@@ -1,4 +1,4 @@
 
 <div align="center">
-  <img  src="img/Frame 1.png">
+  <img  src="Group.png">
 </div>   
