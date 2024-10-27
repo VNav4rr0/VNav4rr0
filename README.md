@@ -15,4 +15,4 @@
 <br>
 
 > [!NOTE]
-> Olá, mundo! Sou um estudante da ETEC Zona Leste, cursando o Desenvolvimento de Sistemas (DS), sempre buscando desbravar a programação e tudo o que esse vasto universo tem a oferecer. Cada linha de código é uma nova aventura. 💡🌟
+> Olá, mundo! Sou um estudante da ETEC Zona Leste, cursando o Desenvolvimento de Sistemas (DS), sempre buscando desbravar a programação e tudo o que esse vasto universo tem a oferecer. Cada linha de código é uma nova aventura... 💡🌟
