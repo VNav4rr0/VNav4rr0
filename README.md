@@ -33,6 +33,6 @@ Sou um desenvolvedor apaixonado por criar interfaces intuitivas, fluidas e efici
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugonavarrotaveira/)
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&symbol=border)](portfolio-peach-phi-32.vercel.app)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&symbol=border)]([portfolio-peach-phi-32.vercel.app](https://portfolio-peach-phi-32.vercel.app/))
 
 ---
